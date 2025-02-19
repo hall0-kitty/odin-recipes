@@ -1,6 +1,26 @@
+
 a[href] {
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    font-weight: bolder;
-    color: azure;
+    font-size: large;
+    font-weight: 600;
+}
+body {
+    background-color: rgba(211, 211, 211, 0.796);
+}
+a[href] {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+    font-weight: 100;
+}
 
+p {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: medium;
+    color: rgb(9, 23, 35);
+    font-weight: 300;
+}
+li {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: large;
+    color: rgb(9, 23, 35);
 }
